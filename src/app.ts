@@ -102,7 +102,7 @@ bot.on("callback_query", async (query) => {
             inline_keyboard: [
                 [
                     {
-                        text: "Додаты в обране",
+                        text: "Додати в обране",
                         callback_data: "add",
                     },
                 ],
